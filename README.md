@@ -71,12 +71,10 @@
 
 <br/><br/>
 <hr/>
-<h3 align="center">🙋‍♂️ Support</h3>
+<h2 align="center">🙋‍♂️ Support</h2>
 
 
 <h3 align="center">💙 If you like this project, give it a ⭐ and share it with friends!</h3>
-
-
 <br>
 <div align="center">
     <a href="https://www.buymeacoffee.com/udhaybhat">
