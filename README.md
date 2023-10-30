@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Ethical Hacking**
 
- 💬 Ask me about **python,Linux,bash... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **python,Linux,bash... or anything [here](https://github.com/udhaybhat00/udhaybhat00/issues)**
 
  ⚡ Fun fact **I use my skills to help organizations by identifying vulnerabilities in their systems before malicious hackers can exploit them.**
  
