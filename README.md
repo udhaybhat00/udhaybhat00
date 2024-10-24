@@ -104,14 +104,14 @@
 <div align="center">
 
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
-    <img width="390" src="https://streak-stats.demolab.com?user=udhaybhat00&theme=react&border_radius=10" alt="streak stats" />
+    <img width="390" src="https://streak-stats.demolab.com?user=udhaybhat00&theme=chartreuse-dark&border_radius=10" alt="streak stats" />
     <span style="width: 15px;"></span> <!-- Horizontal space -->
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=udhaybhat00&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=udhaybhat00&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="readme stats" />
   </div>
   
   <br/>
 
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhaybhat00&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhaybhat00&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 
@@ -134,15 +134,15 @@
 
 <li>
 <a href="https://linkedin.com/in/udhaybhat" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  udhaybhat00-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%23405DE6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/udhaybhat00" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  udhaybhat00-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://instagram.com/udhay_bhat" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -150,7 +150,7 @@
 
 <li>
 <a href="mailto:udhaybhat00@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  udhaybhat00-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
 </a>
 </li>
 	
@@ -166,7 +166,7 @@
 ## <b>🐍 A Snake Eating my Contributions Graph</b>
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/udhaybhat00/udhaybhat00/raw/main/contribution.svg" alt = "Snake Game"/>
 </p>
 <br>
 <hr>
