@@ -126,7 +126,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> 🤝 Let's Connect..!</b>
 <br>
 <div align='left'>
 
@@ -163,11 +163,13 @@
 <br>
 <br>
 
-**A Snake Eating my Contributions Graph**:
+## <b>🐍 A Snake Eating my Contributions Graph</b>
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+<br>
+<hr>
 
 <h2 align="center">🙋‍♂️ Support</h2>
 
