@@ -27,6 +27,8 @@
 
 - 👨‍💻 A passionate self-taught `front-end developer`.
 - 🎮 Playing `CTFs` in my spare time.
+- 🔐 Specialized in cybersecurity, with experience in `vulnerability assessment and penetration testing`.
+- 🛠️ Skilled in using Kali Linux for `security testing and threat mitigation`.
 - 📊 Currently working on `ML projects`.
 - 📚 Currently learning `Neural Networks and Deep Learning` on my own.
 - 💻 I love using `software as a solution for every problem`.
