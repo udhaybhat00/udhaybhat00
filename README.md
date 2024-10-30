@@ -9,7 +9,7 @@
 <Br>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer;Machine+Learning+Engineer;Computer+Science+Student;CTF+Newbie;Active+Learner/Researcher;Love+to+learn+new+stuffs..&lt;3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer;Machine+Learning+Engineer;Computer+Science+Student;CTF+intermediate;Active+Learner/Researcher;Love+to+learn+new+stuffs..&lt;3"></a>
 
 </p>
 
@@ -88,6 +88,7 @@
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+    ![kalilinux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=black)
     
 
 </p>
