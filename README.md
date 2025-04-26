@@ -32,7 +32,7 @@
 - 📊 Currently working on `ML projects`.
 - 📚 Currently learning `Neural Networks and Deep Learning` on my own.
 - 💻 I love using `software as a solution for every problem`.
-- 💼 I’m currently open for an Intern or a new `job opportunity`, this is [my resume](https://google.com)
+- 💼 I’m currently open for an Intern or a new `job opportunity`, this is [my resume](https://drive.google.com/file/d/1qyFIqDr18w5n0NaDNoOwOHCVPIWrLeDh/view?usp=sharing)
 
 <br><br>
 
