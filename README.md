@@ -1,193 +1,501 @@
-<p align="left"> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=udhaybhat00.udhaybhat00&right_color=brightgreen" alt="watching_count" />
-</p>  
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+<!-- ========================= HERO SECTION ========================= -->
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=udhaybhat00.udhaybhat00&right_color=00FF41&left_color=000000" />
 </p>
-    <hr>
-<h1 align="center"><b>Hi , I'm Udhay Bhat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<Br>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer;Machine+Learning+Engineer;Computer+Science+Student;CTF+intermediate;Active+Learner/Researcher;Love+to+learn+new+stuffs..&lt;3"></a>
-
-</p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br>
-
-- 👨‍💻 A passionate self-taught `front-end developer`.
-- 🎮 Playing `CTFs` in my spare time.
-- 🔐 Specialized in cybersecurity, with experience in `vulnerability assessment and penetration testing`.
-- 🛠️ Skilled in using Kali Linux for `security testing and threat mitigation`.
-- 📊 Currently working on `ML projects`.
-- 📚 Currently learning `Neural Networks and Deep Learning` on my own.
-- 💻 I love using `software as a solution for every problem`.
-- 💼 I’m currently open for an Intern or a new `job opportunity`, this is [my resume](https://drive.google.com/file/d/1qyFIqDr18w5n0NaDNoOwOHCVPIWrLeDh/view?usp=sharing)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
-
-- **Languages**:
-    
-  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![ReactJs](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-   ![TypeScript](https://img.shields.io/badge/TypeScript%20-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2D6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Netlify](https://img.shields.io/badge/-netlify-blue?style=for-the-badge&logo=netlify&logoColor=green)
-    ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%234285F4.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-<br>
-
-- **Operating Systems**:
-
-    ![kalilinux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=black)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-    
-    
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,40:0f172a,100:00FF41&text=Udhay%20Bhat&fontColor=00FF41&fontSize=55&fontAlignY=38&desc=Aspiring%20Cloud%20Security%20Engineer&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<br>
-<br>
+<h1 align="center">
+Hi there 👋 I'm Udhay Bhat
+</h1>
 
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
-    <img width="390" src="https://streak-stats.demolab.com?user=udhaybhat00&theme=chartreuse-dark&border_radius=10" alt="streak stats" />
-    <span style="width: 15px;"></span> <!-- Horizontal space -->
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=udhaybhat00&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  </div>
-  
-  <br/>
-
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhaybhat00&layout=compact&theme=chartreuse-dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-</div>
-
-
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> 🤝 Let's Connect..!</b>
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/udhaybhat" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%23405DE6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://instagram.com/udhay_bhat" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:udhaybhat00@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-## <b>🐍 A Snake Eating my Contributions Graph</b>
-	
-<p align = "center">
-	<img src = "https://github.com/udhaybhat00/udhaybhat00/raw/main/contribution.svg" alt = "Snake Game"/>
-</p>
-<br>
-<hr>
-
-<h2 align="center">🙋‍♂️ Support</h2>
-
-
-<h3 align="center">💙 If you like this project, give it a ⭐ and share it with friends!</h3>
-<br>
-<div align="center">
-    <a href="https://www.buymeacoffee.com/udhaybhat">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="udhaybhat" height="50" width="210">
-    </a>
-</div>
-
-<hr>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+🔐 Cybersecurity Student • ☁️ Aspiring Cloud Security Engineer • 🚩 CTF Player
 </h3>
- <br/>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Aspiring+Cloud+Security+Engineer;Ethical+Hacking+Enthusiast;Capture+The+Flag+Player;Linux+Enthusiast;Building+Projects+to+Learn;Exploring+AI+for+Cybersecurity;Always+Learning+Something+New"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/udhaybhat00">
+<img src="https://img.shields.io/github/followers/udhaybhat00?style=for-the-badge&label=Followers&color=00FF41&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/udhaybhat00">
+<img src="https://img.shields.io/github/stars/udhaybhat00?style=for-the-badge&label=Stars&color=00FF41&labelColor=000000"/>
+</a>
+
+<a href="https://linkedin.com/in/udhaybhat">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:udhaybhat00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💡 About This Profile
+
+> I'm a Computer Science student specializing in **Cybersecurity**, passionate about securing modern applications and cloud infrastructure.
+
+> My long-term goal is to become a **Cloud Security Engineer**, combining software engineering, cloud technologies, and cybersecurity to build secure systems.
+
+---
+<!-- ========================= ABOUT ME ========================= -->
+
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> About Me
+
+<img align="right" width="320" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+
+I'm a **Computer Science Engineering student specializing in Cybersecurity**, passionate about building secure software and exploring modern security practices.
+
+My interests span **Cloud Security**, **Ethical Hacking**, **Linux**, **Network Security**, **AI-powered Security Solutions**, and **Secure Software Development**.
+
+I believe the best way to learn cybersecurity is by building projects, solving CTF challenges, experimenting in labs, and continuously improving through hands-on practice.
+
+---
+
+## 🎓 Education
+
+🎓 Bachelor of Engineering (B.E.)
+
+💻 Computer Science & Engineering
+
+🛡️ Specialization: Cybersecurity
+
+🇮🇳 India
+
+---
+
+## 🔭 What I'm Working On
+
+- ☁️ Learning AWS and Cloud Security
+- 🛡️ Practicing Ethical Hacking & Web Security
+- 🚩 Solving Capture The Flag (CTF) challenges
+- 💻 Building Full-Stack Applications
+- 🤖 Exploring AI for Security Automation
+
+---
+
+## 🌱 Currently Learning
+
+- AWS Cloud
+- Identity & Access Management (IAM)
+- Docker
+- Kubernetes
+- DevSecOps
+- Reverse Engineering
+- Malware Analysis
+- Cloud Security Best Practices
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a **Cloud Security Engineer**, helping organizations design, deploy, and secure cloud-native applications and infrastructure.
+
+I'm particularly interested in:
+
+- AWS Security
+- Cloud Architecture
+- Identity & Access Management (IAM)
+- DevSecOps
+- Infrastructure Security
+- Container Security
+- Security Automation
+
+---
+
+## ⚡ Quick Facts
+
+```yaml
+Name: Udhay Bhat
+
+Role:
+  Cybersecurity Student
+
+Career Goal:
+  Cloud Security Engineer
+
+Languages:
+  Python
+  JavaScript
+  TypeScript
+  Java
+  C++
+
+Operating Systems:
+  Linux
+  Windows
+  macOS
+
+Interests:
+  Cloud Security
+  Ethical Hacking
+  AI
+  Full Stack Development
+  DevSecOps
+
+Learning Style:
+  Build → Break → Learn → Improve
+```
+
+---
+
+## 💼 Looking For
+
+I'm actively looking for opportunities where I can:
+
+- Learn from experienced engineers
+- Contribute to meaningful projects
+- Strengthen my cloud and security skills
+- Build secure and scalable applications
+- Grow as a Cloud Security Engineer
+
+---
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d5d5be5-9b39-4af5-a7df-0f9a8b7a63b6.gif" width="700"/>
+
+</p>
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
+</p>
+
+---
+
+## ☁️ Deployment & Hosting
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+</p>
+
+### Tools I've Used
+
+```text
+• Kali Linux
+• Burp Suite
+• Nmap
+• Wireshark
+• Metasploit Framework
+• Gobuster
+• SQLMap
+• Hydra
+• John the Ripper
+```
+
+---
+
+## 🤖 AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+### Libraries
+
+```text
+• LangChain
+• FAISS
+• Sentence Transformers
+• Google Gemini API
+• Streamlit
+• Pandas
+• NumPy
+• Scikit-Learn
+```
+
+---
+
+## 🛠️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />
+</p>
+
+---
+
+## 💻 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+</p>
+
+```text
+☁️ AWS Cloud
+
+🔐 Cloud Security
+
+🐳 Docker
+
+☸ Kubernetes
+
+🛡 DevSecOps
+
+🔍 Reverse Engineering
+
+🧠 Malware Analysis
+
+⚡ Security Automation
+```
+
+---
+
+</div>
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+> I enjoy building projects that combine software engineering, cybersecurity, cloud technologies, and AI. Some academic and organizational projects are private or maintained outside of GitHub.
+
+---
+
+## 🧠 VisionHub AI *(Private Repository)*
+
+**AI-powered image understanding platform** built to analyze images and answer questions using multimodal AI.
+
+### Highlights
+
+- 🖼️ Image Understanding
+- 💬 AI Chat
+- 📄 Document Analysis
+- 🔐 Secure Backend
+- ⚡ Fast & Responsive Interface
+
+**Tech Stack**
+
+`React` • `Python` • `Flask` • `Gemini API` • `PostgreSQL`
+
+---
+
+## 🛍️ VisionHub Store
+
+Modern e-commerce platform with an admin dashboard and scalable backend.
+
+### Features
+
+- 👤 User Authentication
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 📊 Admin Dashboard
+- 📱 Responsive Design
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL`
+
+---
+
+## 🏥 Cura Healthcare
+
+Mobile application for doctor appointment booking with real-time scheduling.
+
+### Features
+
+- 👨‍⚕️ Doctor Listings
+- 📅 Appointment Booking
+- ⏰ Slot Management
+- 🔑 Authentication
+- 📱 React Native UI
+
+**Tech Stack**
+
+`React Native` • `TypeScript` • `Supabase` • `PostgreSQL`
+
+---
+
+## 🎓 Sri Venkateshwara College of Engineering Website
+
+> Institutional project developed for my college.
+
+Worked on improving and maintaining the official college website.
+
+### Contributions
+
+- 🌐 Responsive UI
+- ⚡ Performance Optimization
+- 🔍 SEO Improvements
+- 📱 Mobile Responsiveness
+- 🛣️ Routing
+- 🚀 Deployment
+
+**Tech Stack**
+
+`HTML` • `CSS` • `JavaScript` • `PHP`
+
+---
+
+## 📚 Academix AI
+
+AI-powered study assistant that helps students interact with educational content.
+
+### Features
+
+- 📄 PDF Chat
+- 📝 AI Summarization
+- ❓ Quiz Generation
+- 🔍 Semantic Search
+- 💬 Question Answering
+
+**Tech Stack**
+
+`Python` • `Streamlit` • `LangChain` • `FAISS` • `Gemini API`
+
+---
+
+# 💼 Other Things I've Worked On
+
+✔ Full-Stack Web Applications
+
+✔ Responsive UI/UX Design
+
+✔ Authentication Systems
+
+✔ REST APIs
+
+✔ Database Design
+
+✔ AI-powered Applications
+
+✔ College Technical Projects
+
+✔ Security-focused Learning Projects
+
+---
+
+# 🛡️ Cybersecurity Journey
+
+Cybersecurity is the field I'm most passionate about.
+
+I'm continuously strengthening my skills through:
+
+- 🚩 Capture The Flag (CTFs)
+- 🧪 Hands-on Security Labs
+- 🔐 Ethical Hacking Practice
+- 🐧 Linux Administration
+- 🌐 Web Security
+- ☁️ Cloud Security Learning
+- 📚 Research & Documentation
+
+---
+
+## 🎯 Current Areas of Interest
+
+- Cloud Security
+- DevSecOps
+- Identity & Access Management (IAM)
+- Web Application Security
+- Reverse Engineering
+- Malware Analysis
+- Security Automation
+
+  <!-- ========================= GITHUB ANALYTICS ========================= -->
+
+# 🐍 Snake Eating My Contributions
+
+<p align="center">
+<img src="https://github.com/udhaybhat00/udhaybhat00/raw/main/contribution.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/udhaybhat">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:udhaybhat00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/udhaybhat00">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💬 Always open to collaborating on
+
+🔐 Cybersecurity • ☁️ Cloud Security • 🤖 AI Projects • 🌍 Open Source
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=footer"/>
+
+</p>
