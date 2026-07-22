@@ -1,466 +1,341 @@
-<!-- ========================= HERO SECTION ========================= -->
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=udhaybhat00.udhaybhat00&right_color=00FF41&left_color=000000" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,40:0f172a,100:00FF41&text=Udhay%20Bhat&fontColor=00FF41&fontSize=55&fontAlignY=38&desc=Aspiring%20Cloud%20Security%20Engineer&descAlignY=60&animation=fadeIn"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:020617,35:0F172A,70:1E293B,100:000000&text=UDHAY%20BHAT&fontSize=58&fontColor=00FFD5&stroke=00FFD5&animation=fadeIn"/>
 
-<h1 align="center">
-Hi there 👋 I'm Udhay Bhat
-</h1>
+# 🔐 Cybersecurity Student
 
-<h3 align="center">
-🔐 Cybersecurity Student • ☁️ Aspiring Cloud Security Engineer • 🚩 CTF Player
-</h3>
+### Cybersecurity Student • SOC & Blue Team • Cloud Security • Secure Software Development
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00FFD5&center=true&vCenter=true&width=950&lines=Security+Operations+Center+(SOC);Cloud+Security+Engineer+in+Progress;Threat+Detection+%26+Incident+Response;Building+SecureCoder+AI;Linux+%7C+Python+%7C+Automation;Capture+The+Flag+Player"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Aspiring+Cloud+Security+Engineer;Ethical+Hacking+Enthusiast;Capture+The+Flag+Player;Linux+Enthusiast;Building+Projects+to+Learn;Exploring+AI+for+Cybersecurity;Always+Learning+Something+New"/>
+<br>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=udhaybhat00&label=PROFILE+VIEWS&style=for-the-badge&color=00FFD5"/>
+
+<img src="https://img.shields.io/github/followers/udhaybhat00?style=for-the-badge&color=00FFD5"/>
+
+<img src="https://img.shields.io/github/stars/udhaybhat00?style=for-the-badge&color=00FFD5"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/udhaybhat00">
-<img src="https://img.shields.io/github/followers/udhaybhat00?style=for-the-badge&label=Followers&color=00FF41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/udhaybhat00">
-<img src="https://img.shields.io/github/stars/udhaybhat00?style=for-the-badge&label=Stars&color=00FF41&labelColor=000000"/>
-</a>
-
-<a href="https://linkedin.com/in/udhaybhat">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/udhaybhat">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:udhaybhat00@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+<a href="https://redhatsquad.in">
+<img src="https://img.shields.io/badge/RedHat%20Squad-00C853?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 💡 About This Profile
+# 👨‍💻 About Me
 
-> I'm a Computer Science student specializing in **Cybersecurity**, passionate about securing modern applications and cloud infrastructure.
+<img align="right" width="330" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">
 
-> My long-term goal is to become a **Cloud Security Engineer**, combining software engineering, cloud technologies, and cybersecurity to build secure systems.
+I'm **Udhay Bhat**, a Computer Science Engineering student specializing in **Cybersecurity** with a passion for **Blue Team Operations, Cloud Security, Secure Software Development, and AI-powered Security Automation.**
 
----
-<!-- ========================= ABOUT ME ========================= -->
+I enjoy building practical security projects instead of only studying theory. My learning approach focuses on developing tools, solving Capture The Flag (CTF) challenges, experimenting in security labs, and exploring how AI can strengthen modern cybersecurity.
 
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> About Me
+### 🔥 Current Focus
 
-<img align="right" width="320" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-
-I'm a **Computer Science Engineering student specializing in Cybersecurity**, passionate about building secure software and exploring modern security practices.
-
-My interests span **Cloud Security**, **Ethical Hacking**, **Linux**, **Network Security**, **AI-powered Security Solutions**, and **Secure Software Development**.
-
-I believe the best way to learn cybersecurity is by building projects, solving CTF challenges, experimenting in labs, and continuously improving through hands-on practice.
+- 🛡 Security Operations Center (SOC)
+- ☁ AWS Cloud Security
+- 🔍 Threat Detection & Incident Response
+- 🚩 Capture The Flag (CTF)
+- 🐳 DevSecOps
+- 🤖 AI for Cybersecurity
 
 ---
-
-## 🎓 Education
-
-🎓 Bachelor of Engineering (B.E.)
-
-💻 Computer Science & Engineering
-
-🛡️ Specialization: Cybersecurity
-
-🇮🇳 India
-
----
-
-## 🔭 What I'm Working On
-
-- ☁️ Learning AWS and Cloud Security
-- 🛡️ Practicing Ethical Hacking & Web Security
-- 🚩 Solving Capture The Flag (CTF) challenges
-- 💻 Building Full-Stack Applications
-- 🤖 Exploring AI for Security Automation
-
----
-
-## 🌱 Currently Learning
-
-- AWS Cloud
-- Identity & Access Management (IAM)
-- Docker
-- Kubernetes
-- DevSecOps
-- Reverse Engineering
-- Malware Analysis
-- Cloud Security Best Practices
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a **Cloud Security Engineer**, helping organizations design, deploy, and secure cloud-native applications and infrastructure.
-
-I'm particularly interested in:
-
-- AWS Security
-- Cloud Architecture
-- Identity & Access Management (IAM)
-- DevSecOps
-- Infrastructure Security
-- Container Security
-- Security Automation
-
----
-
-## ⚡ Quick Facts
-
-```yaml
-Name: Udhay Bhat
-
-Role:
-  Cybersecurity Student
-
-Career Goal:
-  Cloud Security Engineer
-
-Languages:
-  Python
-  JavaScript
-  TypeScript
-  Java
-  C++
-
-Operating Systems:
-  Linux
-  Windows
-  macOS
-
-Interests:
-  Cloud Security
-  Ethical Hacking
-  AI
-  Full Stack Development
-  DevSecOps
-
-Learning Style:
-  Build → Break → Learn → Improve
-```
-
----
-
-## 💼 Looking For
-
-I'm actively looking for opportunities where I can:
-
-- Learn from experienced engineers
-- Contribute to meaningful projects
-- Strengthen my cloud and security skills
-- Build secure and scalable applications
-- Grow as a Cloud Security Engineer
-
----
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d5d5be5-9b39-4af5-a7df-0f9a8b7a63b6.gif" width="700"/>
-
-</p>
-
----
-
-<!-- ========================= TECH STACK ========================= -->
 
 # 💻 Tech Stack
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css" />
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
-</p>
-
----
-
-## ☁️ Deployment & Hosting
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
-</p>
-
----
-
 ## 🔐 Cybersecurity
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github"/>
 
-### Tools I've Used
+<br><br>
 
-```text
-• Kali Linux
-• Burp Suite
-• Nmap
-• Wireshark
-• Metasploit Framework
-• Gobuster
-• SQLMap
-• Hydra
-• John the Ripper
-```
+<img src="https://img.shields.io/badge/Burp%20Suite-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2350A9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John%20The%20Ripper-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autopsy-0F172A?style=for-the-badge"/>
 
 ---
 
-## 🤖 AI & Automation
+## ☁ Cloud & DevSecOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-### Libraries
-
-```text
-• LangChain
-• FAISS
-• Sentence Transformers
-• Google Gemini API
-• Streamlit
-• Pandas
-• NumPy
-• Scikit-Learn
-```
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions"/>
 
 ---
 
-## 🛠️ Development Tools
+## 💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts"/>
 
 ---
 
-## 💻 Operating Systems
+## 🌐 Full Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
 
 ---
 
-# 🌱 Currently Learning
+## 🗄 Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
-</p>
-
-```text
-☁️ AWS Cloud
-
-🔐 Cloud Security
-
-🐳 Docker
-
-☸ Kubernetes
-
-🛡 DevSecOps
-
-🔍 Reverse Engineering
-
-🧠 Malware Analysis
-
-⚡ Security Automation
-```
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
 
 ---
+
+## 🤖 AI
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<br>
+
+Google Gemini API • LangChain • FAISS • Streamlit • OpenCV
 
 </div>
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
+---
+
+# 🛡 Core Security Skills
+
+<table>
+<tr>
+<td>
+
+### Blue Team
+
+- Threat Detection
+- Log Analysis
+- Incident Response
+- IOC Analysis
+- MITRE ATT&CK
+
+</td>
+
+<td>
+
+### Web Security
+
+- OWASP Top 10
+- Burp Suite
+- SQL Injection
+- XSS Testing
+- Authentication
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Cloud
+
+- AWS
+- IAM
+- EC2
+- S3
+- Security Groups
+
+</td>
+
+<td>
+
+### Operating Systems
+
+- Kali Linux
+- Ubuntu
+- Windows
+- macOS
+
+</td>
+</tr>
+</table>
+
+# 🚀 Flagship Project
+
+## 🛡 SecureCoder AI
+
+> AI-powered Secure Code Review Platform focused on DevSecOps.
+
+### Features
+
+- 🔍 AI Vulnerability Detection
+- 🛡 OWASP Top 10 Mapping
+- ⚡ Semgrep Integration
+- 🤖 AI Remediation Suggestions
+- 📄 PDF Security Reports
+- 📊 Security Dashboard
+- 🚀 FastAPI Backend
+- ⚛ React Frontend
+
+### Tech Stack
+
+`FastAPI` • `Python` • `React` • `TypeScript` • `Semgrep` • `Gemini API`
+
+---
+
+## 🎯 2026 Goal
+
+Build an AI-powered platform capable of scanning repositories, identifying security vulnerabilities, explaining risks, and suggesting secure fixes aligned with industry best practices.
+
+---
 
 # 🚀 Featured Projects
 
-> I enjoy building projects that combine software engineering, cybersecurity, cloud technologies, and AI. Some academic and organizational projects are private or maintained outside of GitHub.
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🛡 **SecureCoder AI** | AI-powered secure code review platform with OWASP mapping and Semgrep integration | FastAPI • React • Gemini |
+| 🛒 **VisionHub Store** | Production-ready e-commerce platform with authentication, payments and admin dashboard | Next.js • PostgreSQL |
+| 🔎 **LoginFinder** | CLI utility for discovering hidden login portals during authorized security assessments | Python |
+| 🤖 **Academix AI** | AI study assistant supporting PDF chat, summaries and quizzes | Streamlit • LangChain |
+| 🏫 **SVCE Website** | Contributed to responsive design, SEO and performance improvements for my college website | HTML • CSS • PHP |
 
 ---
 
-## 🧠 VisionHub AI *(Private Repository)*
+# 🏆 Highlights
 
-**AI-powered image understanding platform** built to analyze images and answer questions using multimodal AI.
+- 🔐 Cybersecurity Student specializing in Security
+- 🚩 Active CTF Player
+- ☁ Building AI-powered SecureCoder AI
+- 💻 Contributor to SVCE Website
+- 🌐 Developed RedHat Squad Community Website
+- 📚 Exploring Cloud Security & DevSecOps
 
-### Highlights
+# 🛡 Cybersecurity Journey
 
-- 🖼️ Image Understanding
-- 💬 AI Chat
-- 📄 Document Analysis
-- 🔐 Secure Backend
-- ⚡ Fast & Responsive Interface
+## 🚩 Hands-on Cybersecurity Experience
 
-**Tech Stack**
-
-`React` • `Python` • `Flask` • `Gemini API` • `PostgreSQL`
-
----
-
-## 🛍️ VisionHub Store
-
-Modern e-commerce platform with an admin dashboard and scalable backend.
-
-### Features
-
-- 👤 User Authentication
-- 🛒 Shopping Cart
-- 📦 Order Management
-- 📊 Admin Dashboard
-- 📱 Responsive Design
-
-**Tech Stack**
-
-`React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL`
-
----
-
-## 🏥 Cura Healthcare
-
-Mobile application for doctor appointment booking with real-time scheduling.
-
-### Features
-
-- 👨‍⚕️ Doctor Listings
-- 📅 Appointment Booking
-- ⏰ Slot Management
-- 🔑 Authentication
-- 📱 React Native UI
-
-**Tech Stack**
-
-`React Native` • `TypeScript` • `Supabase` • `PostgreSQL`
-
----
-
-## 🎓 Sri Venkateshwara College of Engineering Website
-
-> Institutional project developed for my college.
-
-Worked on improving and maintaining the official college website.
-
-### Contributions
-
-- 🌐 Responsive UI
-- ⚡ Performance Optimization
-- 🔍 SEO Improvements
-- 📱 Mobile Responsiveness
-- 🛣️ Routing
-- 🚀 Deployment
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript` • `PHP`
-
----
-
-## 📚 Academix AI
-
-AI-powered study assistant that helps students interact with educational content.
-
-### Features
-
-- 📄 PDF Chat
-- 📝 AI Summarization
-- ❓ Quiz Generation
-- 🔍 Semantic Search
-- 💬 Question Answering
-
-**Tech Stack**
-
-`Python` • `Streamlit` • `LangChain` • `FAISS` • `Gemini API`
-
----
-
-# 💼 Other Things I've Worked On
-
-✔ Full-Stack Web Applications
-
-✔ Responsive UI/UX Design
-
-✔ Authentication Systems
-
-✔ REST APIs
-
-✔ Database Design
-
-✔ AI-powered Applications
-
-✔ College Technical Projects
-
-✔ Security-focused Learning Projects
-
----
-
-# 🛡️ Cybersecurity Journey
-
-Cybersecurity is the field I'm most passionate about.
-
-I'm continuously strengthening my skills through:
-
-- 🚩 Capture The Flag (CTFs)
-- 🧪 Hands-on Security Labs
-- 🔐 Ethical Hacking Practice
-- 🐧 Linux Administration
-- 🌐 Web Security
-- ☁️ Cloud Security Learning
-- 📚 Research & Documentation
-
----
-
-## 🎯 Current Areas of Interest
-
-- Cloud Security
-- DevSecOps
-- Identity & Access Management (IAM)
+- Capture The Flag (CTFs)
 - Web Application Security
+- Linux Administration
 - Reverse Engineering
+- Secure Coding
+- Cloud Security
+- Threat Detection
+- Incident Response
+- AI for Cybersecurity
+
+---
+
+## 📚 Platforms
+
+<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hack%20The%20Box-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PicoCTF-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OverTheWire-black?style=for-the-badge"/>
+
+---
+
+## 📖 Currently Learning
+
+- AWS Security
+- Docker
+- Kubernetes
+- Microsoft Sentinel
+- Splunk
+- DevSecOps
+- Threat Hunting
 - Malware Analysis
-- Security Automation
 
-  <!-- ========================= GITHUB ANALYTICS ========================= -->
+<!-- ========================= GITHUB ANALYTICS ========================= -->
 
-# 🐍 Snake Eating My Contributions
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github.com/udhaybhat00/udhaybhat00/raw/main/contribution.svg" alt="Snake animation"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=udhaybhat00&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhaybhat00&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=udhaybhat00&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udhaybhat00&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/udhaybhat00/udhaybhat00/raw/main/contribution.svg"/>
+</p>
+
+---
+
+# 📜 Certifications & Learning
+
+## Currently Pursuing
+
+• AWS Cloud Practitioner
+
+• Google Cybersecurity Professional Certificate
+
+• Microsoft SC-200 Learning Path
+
+---
+
+## 📚 Currently Studying
+
+- AWS Cloud Practitioner
+- AWS Security
+- Docker
+- Kubernetes
+- Microsoft Sentinel
+- Splunk
+- DevSecOps
+- IAM
+- Threat Hunting
+
+---
+
+## 🎯 Next Goals
+
+☁ AWS Certified Cloud Practitioner
+
+🛡 AWS Security Specialty
+
+📊 Splunk Core Certified User
+
+🛡 Microsoft SC-200
+
+🔐 Security+
+
+🚀 eJPT
 
 ---
 
@@ -468,34 +343,36 @@ I'm continuously strengthening my skills through:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/udhaybhat">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/udhaybhat">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:udhaybhat00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/udhaybhat00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+## 💬 Open to Opportunities
 
-### 💬 Always open to collaborating on
-
-🔐 Cybersecurity • ☁️ Cloud Security • 🤖 AI Projects • 🌍 Open Source
-
-</p>
+- 🛡 SOC Analyst Internship
+- ☁ Cloud Security Internships
+- 🔐 Cybersecurity Internships
+- 🤝 Open Source Collaboration
+- 🚀 Security Research Projects
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=footer"/>
+### ⚡ Building Secure Systems • Learning Every Day • Open to Opportunities
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B0F19,100:00FF41&section=footer"/>
+
+</div>
