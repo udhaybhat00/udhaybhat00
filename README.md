@@ -14,11 +14,13 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=udhaybhat00&label=PROFILE+VIEWS&style=for-the-badge&color=00FFD5"/>
+<p align="left"> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=udhaybhat00.udhaybhat00&right_color=brightgreen" alt="watching_count" />
+</p> 
 
-<img src="https://img.shields.io/github/followers/udhaybhat00?style=for-the-badge&color=00FFD5"/>
+<img src="https://img.shields.io/github/followers/udhaybhat00?style=for-the-badge&color=brightgreen"/>
 
-<img src="https://img.shields.io/github/stars/udhaybhat00?style=for-the-badge&color=00FFD5"/>
+<img src="https://img.shields.io/github/stars/udhaybhat00?style=for-the-badge&color=brightgreen"/>
 
 </div>
 
