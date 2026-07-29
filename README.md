@@ -68,7 +68,7 @@ I build practical security tooling rather than only studying theory — this yea
 | 🛡 **SecureCoder AI** | AI-powered secure code review with OWASP mapping + Semgrep | FastAPI · React · Gemini | 🚧 In progress | [repo](#) |
 | 🛒 **VisionHub Store** | Production e-commerce platform: auth, payments, admin dashboard | Next.js · PostgreSQL | ✅ Live | [Link](https://visionhubstore.vercel.app/) |
 | 🔎 **LoginFinder** | CLI tool for discovering hidden login portals in authorized assessments | Python | ✅ Live | [repo](https://github.com/udhaybhat00/Login-Finder) |
-| 🤖 **Academix AI** | AI study assistant: PDF chat, summaries, quizzes | Streamlit · LangChain | ✅ Live | [Link](academixxx.streamlit.app/) |
+| 🤖 **Academix AI** | AI study assistant: PDF chat, summaries, quizzes | Streamlit · LangChain | ✅ Live | [Link](https://academixxx.streamlit.app/) |
 | 🏫 **SVCE Website** | Responsive design, SEO, and performance improvements for college site | HTML · CSS · PHP | ✅ Live | [Link](https://svcengg.edu.in/) |
 
 ---
