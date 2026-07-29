@@ -6,9 +6,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:0F172A,70:1E293B,100:000000&text=UDHAY%20BHAT&fontSize=54&fontColor=00FFD5&stroke=00FFD5&animation=fadeIn"/>
 
-### Cybersecurity Student • SOC & Blue Team • Cloud Security • Secure Software Development
+### Cybersecurity Student → Cloud Security | AWS · Linux · DevSecOps | Full-Stack Builder · CTF Player
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00FFD5&center=true&vCenter=true&width=900&lines=Security+Operations+Center+(SOC);Threat+Detection+%26+Incident+Response;Building+SecureCoder+AI;Linux+%7C+Python+%7C+Automation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00FFD5&center=true&vCenter=true&width=900&lines=Cloud+Security+%26+AWS;DevSecOps+%26+Secure+Development;Building+SecureCoder+AI;Linux+%7C+Python+%7C+Automation"/>
 
 <br>
 
@@ -33,22 +33,20 @@
 
 # 👨‍💻 About Me
 
-I'm **Udhay Bhat**, a Computer Science Engineering student specializing in **Cybersecurity**, focused on **Blue Team operations, cloud security, secure software development, and AI-powered security automation**.
+I'm **Udhay Bhat**, a Computer Science Engineering student specializing in **Cybersecurity**, working toward a career in **Cloud Security**. I'm also genuinely interested in **SOC and Blue Team operations** — threat detection, incident response, and defensive security more broadly — alongside secure software development.
 
 I build practical security tooling rather than only studying theory — this year that means shipping **SecureCoder AI**, an AI-powered secure code review platform, while working through CTFs and cloud security labs.
 
 <!-- Swap in a real, specific stat once you have one — this line does more work than 10 badges -->
 <!-- e.g. "Solved 60+ rooms on TryHackMe · Top 15% on picoCTF 2026 · Currently building toward Security+" -->
 
-**Currently focused on:** SOC workflows · AWS cloud security · threat detection & incident response · CTF · DevSecOps
+**Currently focused on:** AWS cloud security · SOC workflows & threat detection · DevSecOps · CTF
 
 ---
 
 # 🚧 Currently Building — SecureCoder AI
 
-> AI-powered secure code review platform for DevSecOps teams. **Status: in active development — not yet released.**
-
-**[→ Follow progress on GitHub](YOUR_REPO_LINK_HERE)**
+> AI-powered secure code review platform for DevSecOps teams. **Status: early planning/development — repo coming soon.**
 
 **Planned features:**
 - 🔍 AI-assisted vulnerability detection with OWASP Top 10 mapping
@@ -65,7 +63,7 @@ I build practical security tooling rather than only studying theory — this yea
 
 | Project | What it does | Tech | Status | Link |
 |---|---|---|---|---|
-| 🛡 **SecureCoder AI** | AI-powered secure code review with OWASP mapping + Semgrep | FastAPI · React · Gemini | 🚧 In progress | [repo](#) |
+| 🛡 **SecureCoder AI** | AI-powered secure code review with OWASP mapping + Semgrep | FastAPI · React · Gemini | 🚧 Planning | — |
 | 🛒 **VisionHub Store** | Production e-commerce platform: auth, payments, admin dashboard | Next.js · PostgreSQL | ✅ Live | [Link](https://visionhubstore.vercel.app/) |
 | 🔎 **LoginFinder** | CLI tool for discovering hidden login portals in authorized assessments | Python | ✅ Live | [repo](https://github.com/udhaybhat00/Login-Finder) |
 | 🤖 **Academix AI** | AI study assistant: PDF chat, summaries, quizzes | Streamlit · LangChain | ✅ Live | [Link](https://academixxx.streamlit.app/) |
@@ -140,7 +138,7 @@ Gemini API · LangChain · FAISS · Streamlit · OpenCV
 
 </p>
 
-<p align="center">Open to: SOC Analyst internships · Cloud Security internships · Security research collaboration</p>
+<p align="center">Open to: Cloud Security internships · SOC/Blue Team internships · DevSecOps internships · Security research collaboration</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B0F19,100:00FF41&section=footer"/>
