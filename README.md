@@ -95,7 +95,11 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
 
 ## Contributions
 
-![Streak Stats](https://streak-stats.demolab.com?user=udhaybhat00&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udhaybhat00/udhaybhat00/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udhaybhat00/udhaybhat00/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/udhaybhat00/udhaybhat00/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
