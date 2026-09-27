@@ -1,9 +1,13 @@
 ![AI Security Engineer Banner](./2.svg)
 
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/RedHat%20Squad-0e0e0e?style=for-the-badge&logo=vercel&logoColor=white)](https://redhatsquad.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udhaybhat)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udhaybhat00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udhaybhat00)
+
+</div>
 
 ## Heya! 👋
 
@@ -20,7 +24,9 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
 
 ## 🛠 My Stack
 
-**Security Tooling**
+<div align="center">
+
+### Security Tooling
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-c1121f?style=for-the-badge&logoColor=white)
@@ -30,7 +36,7 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
 ![Metasploit](https://img.shields.io/badge/Metasploit-2b2b2b?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00a1d9?style=for-the-badge&logoColor=white)
 
-**Core**
+### Core
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557c94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffd43b)
@@ -42,7 +48,7 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
 ![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Cloud & Web**
+### Cloud & Web
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
@@ -50,11 +56,12 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**AI / Automation**
+### AI / Automation
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
----
+</div>
 
+---
 ### 📚 Things I've Built
 
 |  |  |
@@ -109,8 +116,12 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
 
 ## 🤝 Let's Connect
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/udhaybhat)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:udhaybhat00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/udhaybhat00)
 
-Open to: **Cloud Security internships · SOC/Blue Team internships · DevSecOps internships · Security research collaboration**
+**Open to:** Cloud Security internships · SOC/Blue Team internships · DevSecOps internships · Security research collaboration
+
+</div>
