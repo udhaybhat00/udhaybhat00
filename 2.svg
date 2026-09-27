@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<style>
+.title{font-family:Inter,Arial,sans-serif;font-size:27px;font-weight:800;letter-spacing:-.8px}
+.sub{font-family:Inter,Arial,sans-serif;font-size:12px;font-weight:500;letter-spacing:2.5px}
+.body{font-family:Inter,Arial,sans-serif;font-size:11px;font-weight:600}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}} .char{animation:float 4s ease-in-out infinite} @keyframes scan{0%{transform:translateY(0);opacity:0}10%{opacity:.65}90%{opacity:.65}100%{transform:translateY(300px);opacity:0}} .scan{animation:scan 3.2s linear infinite} @keyframes blink{0%,45%,100%{opacity:.2}50%,90%{opacity:.8}} .dot{animation:blink 1.7s infinite}</style>
+<defs>
+ <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#087ea4"/><stop offset="1" stop-color="#04c6e9"/></linearGradient>
+</defs>
+<rect width="1200" height="300" fill="#050505"/>
+<g class="scan" opacity=".5"><rect x="0" y="0" width="1200" height="2" fill="#04c6e9"/></g>
+<g class="dot" fill="#04c6e9"><circle cx="72" cy="52" r="2"/><circle cx="1130" cy="238" r="2"/><circle cx="1088" cy="42" r="1.5"/></g>
+<g opacity=".14" stroke="#04c6e9"><path d="M0 150H1200"/><path d="M600 0V300"/></g>
+<g transform="translate(198.5 150)">
+ <g class="char">
+  <circle cx="0" cy="0" r="57" fill="#111214" stroke="#25272b" stroke-width="2"/>
+  <circle cx="0" cy="-5" r="28" fill="#f0c5a7"/>
+  <path d="M-28-10Q-20-42 3-38Q28-38 31-10Q20-25 5-22Q-12-20-28-10Z" fill="#17181b"/>
+  <circle cx="-10" cy="-4" r="3.2" fill="#111"/><circle cx="11" cy="-4" r="3.2" fill="#111"/>
+  <path d="M-8 10Q0 17 8 10" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+  <path d="M-28 28Q0 12 28 28L34 55H-34Z" fill="#22252a"/>
+ </g>
+</g>
+<g transform="translate(298.5 74)">
+ <rect width="760" height="152" rx="30" fill="#101113" stroke="#17191c"/>
+ <text x="380" y="43" class="sub" text-anchor="middle" fill="#778087">CYBERSECURITY × AI</text>
+ <text x="380" y="86" class="title" text-anchor="middle" font-size="31" fill="#fff">AI SECURITY ENGINEER</text>
+ <text x="380" y="116" class="body" text-anchor="middle" font-size="11.5" fill="#898d92">OFFENSIVE SECURITY · PENETRATION TESTING · AGENTIC AI · AI AUTOMATION</text>
+ <rect x="290" y="132" width="180" height="2" rx="1" fill="url(#blue)"/>
+</g>
+</svg>
