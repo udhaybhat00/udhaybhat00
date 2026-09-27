@@ -101,6 +101,10 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/udhaybhat00/udhaybhat00/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=udhaybhat00&theme=tokyonight&hide_border=true" alt="Streak Stats">
+</p>
+
 ---
 
 ## 🤝 Let's Connect
