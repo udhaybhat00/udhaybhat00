@@ -14,7 +14,8 @@
 
 I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands-on penetration testing, network security, and secure full-stack development experience.
 
-- 🔭 Currently building **AI-SOC-Analyst** — a privacy-first, local AI assistant for SOC analysts and threat hunters
+<!-- 🔭 Currently building **AI-SOC-Analyst** — a privacy-first, local AI assistant for SOC analysts and threat hunters -->
+- 🔭 Currently building **[Vulnix](https://github.com/udhaybhat00/Vulnix)** — AI-assisted VAPT platform: 8 parallel scanners, deterministic CVSS v3.1 scoring, evidence-verified findings, plain-English PDF reports
 - 🔐 Completed a cybersecurity internship applying VAPT methodology (Burp Suite, Nmap, sqlmap, Hydra, Wireshark, OWASP ZAP, Metasploit)
 - 🏆 Placed **Top 2** at Smart India Hackathon leading a 6-member team
 - 🧑‍🤝‍🧑 Co-founded and leads a **300+ member** technical community (RedHat Squad)
@@ -65,9 +66,11 @@ I'm **Udhay**, a Cybersecurity-focused Computer Science undergraduate with hands
 ---
 ### 📚 Things I've Built
 
+<!-- 🤖 AI-SOC-Analyst · 🚧 Building Privacy-first, local AI assistant for SOC analysts and threat hunters. RAG-based chat over the MITRE ATT&CK dataset, automated PDF threat-report summarization, and IoC extraction — powered by local LLMs (Phi-3 / LLaMA 3 via Ollama) so no data leaves your device -->
+
 |  |  |
 |---|---|
-| **🤖 [AI-SOC-Analyst](#)** · 🚧 Building   Privacy-first, local AI assistant for SOC analysts and threat hunters. RAG-based chat over the MITRE ATT&CK dataset, automated PDF threat-report summarization, and IoC extraction — powered by local LLMs (Phi-3 / LLaMA 3 via Ollama) so no data leaves your device | **🛡 [airscope](https://github.com/udhaybhat00/airscope)**   Cross-platform USB Wi-Fi security auditor: WPA/WPA2 handshake + PMKID capture, WPS PixieDust, WPA3 SAE, EvilTwin, hashcat cracking — terminal UI + web dashboard |
+| **🛡 [Vulnix](https://github.com/udhaybhat00/Vulnix)**   AI-assisted VAPT platform: 8 parallel scanners, deterministic CVSS v3.1 scoring, evidence-verified findings, plain-English PDF reports — fully self-hosted and air-gapped, no data leaves your network | **🛡 [airscope](https://github.com/udhaybhat00/airscope)**   Cross-platform USB Wi-Fi security auditor: WPA/WPA2 handshake + PMKID capture, WPS PixieDust, WPA3 SAE, EvilTwin, hashcat cracking — terminal UI + web dashboard |
 | **🛒 [VisionHub](https://github.com/udhaybhat00)** · [Live](https://visionhubstore.vercel.app/)   Full-stack eyewear e-commerce platform (Next.js 16, React 19, TypeScript) with secure Razorpay payments, an AI Stylist virtual try-on (MediaPipe Face Mesh), and Clerk auth with RBAC | **🔎 [LoginFinder](https://github.com/udhaybhat00/Login-Finder)**   CLI tool for discovering hidden login portals in authorized security assessments |
 
 ---
